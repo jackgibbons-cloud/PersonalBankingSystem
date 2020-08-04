@@ -1,0 +1,69 @@
+The Personal Banking System 
+for the ZX80, ZX81, ZX Spectrum 48k/128k/+3/Next and Sinclair QL computers.
+
+The PBS took its name from the International Banking System which ran on an IBM 4331 mainframe. I was helping with the implementation of IBS at my Banking job.  It was a tongue in cheek idea.  The PBS was originally developed for the Sinclair range of computers (ZX80, ZX81, ZX Spectrum and QL) and was one of the first ZX programs to be sold with after sale maintenance. 
+
+It took over twenty minutes to Save and Verify the ZX80 recordings on both sides of a cassette.  If it failed to re-Load you had to do it all again. 
+
+So the PBS first ran on a little ZX80 home computer with a wobbly 16k RAM pack on the back! A far cry from its cousin the IBS running on an IBM Mainframe.
+
+The program was twice featured in the top ten selling programs in the UK (Buffer Micro Shop) and was sold by distributors Syntax Software, Software Masters (Computer Bookshop Group), Hilderbay and Micromega (versions 3a and 4 only) under Licence.  This was in addition to sales made in my own name and Hilton Computer Services (a company formed by myself and fellow members of the Orpington Computer Club). The Operations Manager at the Bank (my boss) asked me if I was planning to leave my job.  No, of course not: I enjoy working here.
+
+When first released for distribution by Syntax Software in 1981 it was for sale at £15.00 to include a user manual. Further economies of scale enabled a price reduction for customers to £12.00 and later £10.00, but offered at £9.00 at all the ZX Microfairs to reflect no P&P. At the first Microfair, I listed the PBS program at the first public launch of the ZX Printer. The PBS was also on sale at the Personal Computer World Show, Amstrad Computer Show, Bruce Everiss' All Formats Computer Fairs, Bob Brenchley's Gloucester Shows and a few others. A great chance to meet my customers, sometimes again and again. 
+
+It was also sold by Mail Order using a good advertising campaign.  The PBS is rumoured to show Sir Clive's personal account! It was also sold overseas in the USA, Europe, Middle east, South Africa, even to a Park Ranger in NZ come to mind.
+
+I did also offer the PBS as Freeware for a while after I had released a new version, so I could offer a previous version for free (sorry, plus P&P). Customers were allowed to try the software and then decide to make a contribution to the scheme, if they wanted.  It worked very well, but one customer sent 50p! I also had an upgrade facility where customers could swap their old for the latest copy for a small price. It worked very well.
+
+All versions of the PBS software where written by me (JG) with just a little bit of help from my friends at the Orpington Computer Club of which I was a co-founder.  None were written by MicroMega (who distributed under Licence for a while) as sometimes erroneously reported in the computer press and some reviews. None would run on a 16k Spectrum.
+
+Nor am I the author, nor responsible for MicroMega's ZX81 BANK program (also described as Personal Bank Account Management System) as listed on the World of Spectrum website and erroneously described as the Personal Banking System in someone else's advert. So we have cleared up a few confusions I hope.
+
+With the invaluable assistance of Mr Nick Alexander (of Myrmidon's Microprint Software) we have a great Spectrum version 5b with a 50 column display. Coupled with m/c searches and keyboard scan, we have the best version yet! The latest version supplied here includes the Reconciliation module and has been modified to use Microdrives (only up to 7, sorry) and a disk drive.
+
+The System consists of a suite of programs which are designed to be run on the ZX80, ZX81, and Spectrum 48/128/+3/Next. The QL version came with a complete re-write and in 80 column screen re-design (dubbed the PBS II).  
+The main object of the system is to maintain permanent records of your accounting transactions as viewed from a Bank account.  The data is stored within the program in the form of arrays and can be manipulated easily in order to perform useful tasks, including:
+
+a)  Display detailed single or sequential pages of entries posted to the main account (via Screen or printer).
+
+b)  Automatically post standing orders on due dates at regular intervals (from monthly to annual,later versions daily, weekly, Lunar monthly, monthly, annual).
+
+c)  Make corrections or deletions at any time to entries previously input.
+
+d)  Back dated entry - insert a previously omitted entry in correct date sequence within the account record.
+
+e)  Search and locate particular items by date (or any part of the date), amount, cheque number or description.  Provide totals by category + printout.
+
+f)  Forward Projections - you have just been paid and you have some regular commitments for the month.  How much have you got left to play with?
+
+g)  Bank Reconciliation – Use this to check your incoming Bank statements!
+
+In order to protect the data stored in the program, comprehensive validation checks are performed.  This is necessary so that once the program is entered, the computer is continually under program control until it is completed.  The Personal Banking System can also be used in conjunction with a printer and produce statement pages with full details.
+
+After completion of any cycle or operation the system offers you a choice of action or next step to be taken.
+
+Versions are available to run on ZX80, ZX81 (English and French), ZX Spectrum 5b, ZX Spectrum 5e (Spanish), QL, Dragon 32, BBC B, Amstrad CPC, Sam Coupe, PC Dos, PC Windows 10. There is also a Grundy NewBrain version (about 1000 of them) but unfortunately I do not have a copy. If anyone has one, please let me know!
+
+Latest versions of the PBS are also available for download from:
+
+https://spectrumcomputing.co.uk/entry/8542/ZX-Spectrum/Personal_Banking_System 
+
+for ZX80, ZX81, ZX Spectrum 48/128k, +3, Next.  See Main File Downloads – last two ZX Spectrum items are latest version 5 English and Spanish 1987/85.  They have been published by Jack Gibbons and not by Micromega as stated erroneously.
+ 
+https://worldofspectrum.org/ for ZX80, ZX81, ZX Spectrum 48/128k, +3, Next
+
+http://www.dilwyn.me.uk/business/index.html for QL
+ 
+http://archive.worldofdragon.org/browse/?dir=downloads/Software/Dragon/Hilton%20Computer%20Services for Dragon 32/64
+
+http://8bs.com/catalogue.htm#The%20Disk%20User for BBC B THEN scroll back one item for TBI-205 PBS
+
+https://archive.org/details/pbs_20200723  for Amstrad CPC
+
+https://www.worldofsam.org/products/personal-banking-system for Sam Coupe 512k
+
+https://github.com/jackgibbons-cloud/PersonalBankingSystem for PC Dos, Win 10
+
+I have met some great people on the Journey…
+
+Jack Gibbons ACIB 04/08/2020
